@@ -1,0 +1,17 @@
+body {
+  font-family: 'MedievalSharp', cursive;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #FFFFFF; /*This text shadow looks dumb but it makes it work?*/
+  text-align: center;
+   background-image: url("https://i.pinimg.com/originals/1b/76/16/1b76163f6358da44acd1ea5c9eed9133.jpg");
+   background-size:cover;
+}
+
+.guess {
+  position: absolute; 
+bottom: 0;
+}
+.pretty {
+ position:absolute
+ bottom: 0;
+}
